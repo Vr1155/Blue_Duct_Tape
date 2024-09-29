@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "title": "Farmers Loan Benefit 12B",
+        "category": "Loan",
+        "organization": "USDA Farm Service Agency",
+        "type": "Financial",
+        "location": "Buffalo, New York, NY",
+        "description": "USDA provides direct farm ownership loans with low interest rates to new farmers or those who have suffered losses in the past two years.",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "info@usda.gov"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Paycheck Protection Program (PPP)",
+        "category": "Loan",
+        "organization": "US Small Business Administration (SBA)",
+        "type": "Financial",
+        "location": "Washington, D.C.",
+        "description": "A forgivable loan program to help small businesses keep their workforce employed during the COVID-19 crisis.",
+        "contact_information": {
+            "phone": "800-659-2955",
+            "email": "disastercustomerservice@sba.gov"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Public Service Loan Forgiveness (PSLF)",
+        "category": "Loan",
+        "organization": "Federal Student Aid",
+        "type": "Educational",
+        "location": "Washington, D.C.",
+        "description": "Students working in public service for over 10 years may have their federal student loans forgiven after 120 qualifying payments.",
+        "contact_information": {
+            "phone": "800-433-3243",
+            "email": "forgiveness@studentaid.gov"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Workforce Innovation and Opportunity Act (WIOA)",
+        "category": "Workshop",
+        "organization": "US Department of Labor",
+        "type": "Skill Development",
+        "location": "Nationwide",
+        "description": "A federal program that provides job training and employment services for individuals looking to improve their skills, particularly for dislocated workers and low-income individuals.",
+        "contact_information": {
+            "phone": "877-872-5627",
+            "email": "wioa@dol.gov"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Section 8 Housing Choice Voucher Program",
+        "category": "Benefit",
+        "organization": "US Department of Housing and Urban Development (HUD)",
+        "type": "Housing",
+        "location": "Nationwide",
+        "description": "This program helps low-income families afford housing by providing rental subsidies that cover up to 70% of housing costs.",
+        "contact_information": {
+            "phone": "800-955-2232",
+            "email": "info@hud.gov"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Veteran Readiness and Employment (VR&E)",
+        "category": "Workshop",
+        "organization": "US Department of Veterans Affairs",
+        "type": "Skill Development",
+        "location": "Nationwide",
+        "description": "This program helps veterans with service-connected disabilities prepare for, find, and maintain suitable jobs.",
+        "contact_information": {
+            "phone": "800-827-1000",
+            "email": "vre@va.gov"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Federal Solar Tax Credit",
+        "category": "Policy",
+        "organization": "US Department of Energy",
+        "type": "Environmental",
+        "location": "Nationwide",
+        "description": "A tax credit that allows homeowners and businesses to deduct 26% of the cost of installing solar energy systems from their federal taxes.",
+        "contact_information": {
+            "phone": "202-586-5000",
+            "email": "solar@energy.gov"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Pell Grant",
+        "category": "Scholarship",
+        "organization": "US Department of Education",
+        "type": "Educational",
+        "location": "Nationwide",
+        "description": "Provides need-based grants to low-income undergraduate students to help cover the cost of higher education.",
+        "contact_information": {
+            "phone": "800-433-3243",
+            "email": "pellgrant@studentaid.gov"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Economic Injury Disaster Loan (EIDL)",
+        "category": "Loan",
+        "organization": "US Small Business Administration (SBA)",
+        "type": "Financial",
+        "location": "Nationwide",
+        "description": "Provides economic relief to small businesses that are experiencing a temporary loss of revenue due to a declared disaster.",
+        "contact_information": {
+            "phone": "800-659-2955",
+            "email": "disastercustomerservice@sba.gov"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Teacher Education Assistance for College and Higher Education (TEACH) Grant",
+        "category": "Scholarship",
+        "organization": "US Department of Education",
+        "type": "Educational",
+        "location": "Nationwide",
+        "description": "Provides grants of up to $4,000 per year to students who intend to teach in a public or private elementary or secondary school that serves low-income families.",
+        "contact_information": {
+            "phone": "800-433-3243",
+            "email": "teachgrant@studentaid.gov"
+        }
+    },
+    {
+        "id": 11,
+        "title": "First-Time Homebuyer Loan Program",
+        "category": "Loan",
+        "organization": "Federal Housing Administration (FHA)",
+        "type": "Housing",
+        "location": "Nationwide",
+        "description": "FHA offers loans to first-time homebuyers with as little as 3.5% down payment, especially targeted at low-to-moderate-income buyers.",
+        "contact_information": {
+            "phone": "800-225-5342",
+            "email": "info@fha.gov"
+        }
+    },
+    {
+        "id": 12,
+        "title": "Supplemental Nutrition Assistance Program (SNAP)",
+        "category": "Benefit",
+        "organization": "US Department of Agriculture (USDA)",
+        "type": "Financial",
+        "location": "Nationwide",
+        "description": "SNAP provides food-purchasing assistance for low- and no-income individuals and families living in the U.S.",
+        "contact_information": {
+            "phone": "800-221-5689",
+            "email": "snap@usda.gov"
+        }
+    },
+    {
+        "id": 13,
+        "title": "Green Jobs Training Program",
+        "category": "Workshop",
+        "organization": "US Department of Labor",
+        "type": "Skill Development",
+        "location": "Nationwide",
+        "description": "Training and certification programs for jobs in renewable energy, energy efficiency, and environmental conservation.",
+        "contact_information": {
+            "phone": "877-872-5627",
+            "email": "greenjobs@dol.gov"
+        }
+    },
+    {
+        "id": 14,
+        "title": "Veterans Affairs Home Loan",
+        "category": "Loan",
+        "organization": "US Department of Veterans Affairs",
+        "type": "Housing",
+        "location": "Nationwide",
+        "description": "VA home loans offer competitive interest rates and require no down payment for veterans and service members.",
+        "contact_information": {
+            "phone": "877-827-3702",
+            "email": "vahomeloans@va.gov"
+        }
+    },
+    {
+        "id": 15,
+        "title": "Career Skills Program",
+        "category": "Workshop",
+        "organization": "US Department of Defense",
+        "type": "Skill Development",
+        "location": "Nationwide",
+        "description": "Provides active-duty service members with job training and education to help them transition to civilian careers.",
+        "contact_information": {
+            "phone": "888-276-9472",
+            "email": "careerskills@dod.gov"
+        }
+    },
+    {
+        "id": 16,
+        "title": "Rural Development Loan",
+        "category": "Loan",
+        "organization": "USDA Rural Development",
+        "type": "Housing",
+        "location": "Nationwide",
+        "description": "Provides low-interest loans for families and individuals living in rural areas to purchase, build, or improve their homes.",
+        "contact_information": {
+            "phone": "800-414-1226",
+            "email": "ruralhousing@usda.gov"
+        }
+    },
+    {
+        "id": 17,
+        "title": "Health Professions Scholarship Program (HPSP)",
+        "category": "Scholarship",
+        "organization": "US Department of Defense",
+        "type": "Educational",
+        "location": "Nationwide",
+        "description": "Offers full tuition for medical, dental, and nursing students in exchange for military service post-graduation.",
+        "contact_information": {
+            "phone": "800-872-8272",
+            "email": "hpsp@defense.gov"
+        }
+    }
+]
